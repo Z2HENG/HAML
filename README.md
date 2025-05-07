@@ -1,7 +1,7 @@
 # HAML: Humanoid Adversarial Multi-skill Learning via A Single Policy
 HAML aims at learning versatile and anthropomorphic humanoid motion skills via a single policy from reference human motion data.
 ![1](./images/poster.png)
-
+<img src="./images/poster.png" width="200" height="150">
 
 ## Overview
 
