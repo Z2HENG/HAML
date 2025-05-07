@@ -24,3 +24,16 @@ Overview of HAML. During training, the conditional discriminator indirectly regu
 
 [H-Interaction](https://www.youtube.com/embed/L6fuWg8MHTY?autoplay=1&vq=hd1080)
 
+<style>
+img[alt="1"]{
+width:500px;
+}
+  
+img[alt="2"]{
+width:500px;
+}
+
+img[alt="3"]{
+width:500px;
+}
+
