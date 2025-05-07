@@ -1,4 +1,4 @@
-# HAML
+# HAML: Humanoid Adversarial Multi-skill Learning via A Single Policy
 HAML aims at learning versatile and anthropomorphic humanoid motion skills via a single policy from reference human motion data.
 ![](/images/poster.png)
 
@@ -17,7 +17,10 @@ Overview of HAML. During training, the conditional discriminator indirectly regu
 
 ## Visualization of different tasks
 [H-Locomotion](https://www.youtube.com/embed/R9PvCrNR4i8?autoplay=1&vq=hd1080)
+
 [H-Multiwalk](https://www.youtube.com/embed/FYt_6veKqSk?autoplay=1&vq=hd1080)
+
 [Q-Locomotion](https://www.youtube.com/embed/pDW9RemLs1c?autoplay=1&vq=hd1080)
+
 [H-Interaction](https://www.youtube.com/embed/L6fuWg8MHTY?autoplay=1&vq=hd1080)
 
