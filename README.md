@@ -13,7 +13,7 @@ Overview of HAML. During training, the conditional discriminator indirectly regu
 [Comparison on Mode Collapse](https://www.youtube.com/embed/HYGar8W2-is?autoplay=1&vq=hd1080)
 
 ## Desmonstrations on Various Platforms
-![3](./images/demo.png)
+![3](./images/demo.png  =200x100)
 
 ## Visualization of different tasks
 [H-Locomotion](https://www.youtube.com/embed/R9PvCrNR4i8?autoplay=1&vq=hd1080)
@@ -23,17 +23,4 @@ Overview of HAML. During training, the conditional discriminator indirectly regu
 [Q-Locomotion](https://www.youtube.com/embed/pDW9RemLs1c?autoplay=1&vq=hd1080)
 
 [H-Interaction](https://www.youtube.com/embed/L6fuWg8MHTY?autoplay=1&vq=hd1080)
-
-<style>
-img[alt="1"]{
-width:500px;
-}
-  
-img[alt="2"]{
-width:500px;
-}
-
-img[alt="3"]{
-width:500px;
-}
 
