@@ -11,9 +11,6 @@ Overview of HAML. During training, the conditional discriminator indirectly regu
 ## Comparison with other methods
 [Comparison on Mode Collapse](https://www.youtube.com/embed/HYGar8W2-is?autoplay=1&vq=hd1080)
 
-## Desmonstrations on Various Platforms
-![1](./images/demo.png)
-
 ## Visualization of different tasks
 [H-Locomotion](https://www.youtube.com/embed/R9PvCrNR4i8?autoplay=1&vq=hd1080)
 
@@ -26,6 +23,9 @@ Overview of HAML. During training, the conditional discriminator indirectly regu
 ## Examples of Motion Transition
 ![2](./images/motion_trans1.png)
 
+
+## Desmonstrations on Various Platforms
+![1](./images/demo.png)
 ![3](./images/motion_trans2.png)
 
 ![4](./images/motion_trans3.png)
