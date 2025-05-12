@@ -23,3 +23,11 @@ Overview of HAML. During training, the conditional discriminator indirectly regu
 
 [H-Interaction](https://www.youtube.com/embed/L6fuWg8MHTY?autoplay=1&vq=hd1080)
 
+## Examples of Motion Transition
+![2](./images/demo.png)
+
+![3](./images/demo.png)
+
+![4](./images/demo.png)
+
+
