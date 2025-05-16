@@ -10,6 +10,8 @@ Overview of HAML. During training, the conditional discriminator indirectly regu
 
 ![jj](./images/heading_exp.gif)
 
+HAML allows finer motion skill control by incorporating additional task commands during policy training.
+
 ## Visualization of different tasks
 [H-Locomotion](https://www.youtube.com/embed/R9PvCrNR4i8?autoplay=1&vq=hd1080)
 
