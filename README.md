@@ -30,8 +30,6 @@ HAML allows finer motion skill control by incorporating additional task commands
 
 ![4](./images/motion_trans3.png)
 
-## Demonstrations on Various Platforms
-![123](./images/demo.png)
 
 ## Deployment
 ![ijj](./images/action.gif)
