@@ -2,6 +2,10 @@
 HAML aims at learning versatile and anthropomorphic humanoid motion skills via a single policy from reference human motion data.
 ![1](./images/poster.png)
 
+## Code and Dataset
+
+The code will be made public available after the paper is accepted.
+
 ## Overview
 
 ![1](./images/framework_corl.png)
