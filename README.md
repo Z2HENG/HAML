@@ -4,7 +4,7 @@ HAML aims at learning versatile and anthropomorphic humanoid motion skills via a
 
 ## Code and Dataset
 
-The code will be made public available after the paper is accepted.
+The code will be made publicly available upon acceptance of the paper.
 
 ## Overview
 
